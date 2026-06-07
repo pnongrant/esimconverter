@@ -1,1 +1,5 @@
 aiogram
+pypdf
+pdf2image
+pyzbar
+pillow
